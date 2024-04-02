@@ -12,7 +12,7 @@ function TodoList() {
     if (storedTodos) {
       setTodos(storedTodos);
     }
-  }, []); // This effect runs only once when component mounts
+  }, []); 
 
   // Save todos to local storage whenever todos state changes
   useEffect(() => {
