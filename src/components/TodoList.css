@@ -1,3 +1,9 @@
+
+*{
+  margin: auto;
+  padding: 0;
+  box-sizing: border-box;
+}
 .wrapped {
   display: flex;
   align-items: center;
@@ -26,7 +32,14 @@ button {
   transition: all 0.3s ease;
 
 }
-
+.delete {
+  background-color: red;
+}
+.delete:hover {
+  background-color: red;
+  box-shadow: transparent;
+  padding: 5px;
+}
 button:hover {
   background-color: #45a049;
 }
@@ -44,5 +57,10 @@ button:hover {
   button {
     width: 100%;
     margin-top: 0.5rem;
+  }
+  .delete:hover {
+    background-color: red;
+    box-shadow: transparent;
+    padding: 5px;
   }
 }
