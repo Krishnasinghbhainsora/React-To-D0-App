@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Krishnasinghbhainsora/React-To-D0-App/static/css/main.49a50ec0.css",
+    "main.js": "/Krishnasinghbhainsora/React-To-D0-App/static/js/main.a48de1f0.js",
+    "index.html": "/Krishnasinghbhainsora/React-To-D0-App/index.html",
+    "main.49a50ec0.css.map": "/Krishnasinghbhainsora/React-To-D0-App/static/css/main.49a50ec0.css.map",
+    "main.a48de1f0.js.map": "/Krishnasinghbhainsora/React-To-D0-App/static/js/main.a48de1f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a50ec0.css",
+    "static/js/main.a48de1f0.js"
+  ]
+}
